@@ -111,13 +111,13 @@ input, select, textarea {
 /* Type */
 
 	html {
-		font-size: 20pt;
+		font-size: 21pt;
 	}
 
 		@media screen and (max-width: 1680px) {
 
 			html {
-				font-size: 16pt;
+				font-size: 17pt;
 			}
 
 		}
@@ -125,7 +125,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			html {
-				font-size: 15pt;
+				font-size: 16pt;
 			}
 
 		}
@@ -133,7 +133,7 @@ input, select, textarea {
 		@media screen and (max-width: 360px) {
 
 			html {
-				font-size: 14pt;
+				font-size: 15pt;
 			}
 
 		}
@@ -1678,6 +1678,7 @@ input, select, textarea {
 			padding-inline: 1rem;
 		}
 		.project-title {
+			font-size: .9rem;
 			padding-bottom: .125rem;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 			margin-bottom: .75rem;
@@ -1687,6 +1688,7 @@ input, select, textarea {
 		}
 		.project p {
 			margin-bottom: 1rem;
+			font-size: .85rem;
 		}
 		.project-body h4 {
 			margin-bottom: .25rem;
