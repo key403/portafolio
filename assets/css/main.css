@@ -1683,6 +1683,12 @@ input, select, textarea {
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 			margin-bottom: .75rem;
 		}
+		.project-description {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
+			gap: .5rem;
+		}
 		.project img {
 			max-width: 100%;
 		}
